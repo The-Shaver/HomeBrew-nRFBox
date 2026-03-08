@@ -19,9 +19,7 @@
   </p>
 
   <h3>
-    <a href="https://nyandevices.com">🌐 Learn More</a> ·
-    <a href="https://shop.nyandevices.com">🛒 Buy nyanBOX</a> ·
-    <a href="https://discord.gg/J5A3zDC2y8">💬 Join Discord</a>
+
   </h3>
 </div>
 
@@ -33,7 +31,6 @@
 
 Built around an ESP32 with triple NRF24 modules, a crisp OLED display, and a 2500mAh rechargeable battery, nyanBOX lets you explore the invisible world of 2.4GHz radio anywhere - no cables needed. Scan for hidden Bluetooth devices, detect AirTags tracking you, find credit card skimmers, analyze RF signals, test wireless security, and way more.
 
-**→ [Check out all the features at nyandevices.com](https://nyandevices.com)**
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/530e5686-09db-4f02-aabe-80a8abcbb036" alt="nyanBOX Interface" width="650" />
@@ -50,8 +47,6 @@ Built around an ESP32 with triple NRF24 modules, a crisp OLED display, and a 250
 - **Complete 2.4GHz Toolkit** – 20+ built-in features for Bluetooth, BLE, WiFi, and RF analysis
 - **Pocket-Sized** – Take it anywhere, scan everything
 - **Active Updates** – New features added regularly by the community
-
-**Ready to dive in? [Purchase nyanBOX at shop.nyandevices.com](https://shop.nyandevices.com)**
 
 ---
 
@@ -124,15 +119,12 @@ Hit RIGHT in the main menu to check your stats. Level up by tinkering with RF si
 | Case       | Protective enclosure included            |
 | Debug      | UART                                     |
 
-Get yours: https://shop.nyandevices.com
 
 ---
 
 ## 🚀 Getting Started
 
 ### First Time Setup
-
-Purchase a nyanBOX from **[shop.nyandevices.com](https://shop.nyandevices.com)** and flash the firmware in minutes using our web-based flasher!
 
 ### Firmware Installation & Updates
 
@@ -156,7 +148,6 @@ For developers who want to build from source or customize the firmware:
 **Troubleshooting:**
 - Can't find the port? Install [CP210x drivers](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)
 - Upload failing? Hold the BOOT button while flashing
-- Still stuck? Hit up our [Discord](https://discord.gg/J5A3zDC2y8) - we're here to help!
 
 ---
 
@@ -189,15 +180,6 @@ nyanBOX ships ready to flash. Use the web flasher at https://nyandevices.com/fla
 
 ---
 
-## 💬 Join the Community
-
-Got questions? Want to show off your device? Need help?
-
-- **[Discord](https://discord.gg/J5A3zDC2y8)** - Most active community spot
-- **[GitHub Issues](https://github.com/jbohack/nyanBOX/issues)** - Report bugs or request features
-- **[nyandevices.com](https://nyandevices.com)** - Full docs and guides
-
----
 
 ## 💝 Support the Project
 
